@@ -13,4 +13,5 @@ b = float(input("Введіть друге число: "))
 result = sum_numbers(a, b)
 # Результат
 print("Сума чисел: =", result)
+
 input("Натисни Enter для виходу...")
